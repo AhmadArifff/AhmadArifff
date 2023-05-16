@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ahmad Arif <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&width=435&lines=Software+Developer;Blockchain+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&width=435&lines=Front-end+WEB+Developer;Back-end+WEB+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!--
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <!-- ## 💻 &nbsp;Opreating System 💻
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp; -->
-
+<!-- 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
   </div>
 <div align="center">
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monnalisa-id&theme=onedark" alt="monnalisa-id" /></a> </p>
-</div>
+</div> -->
